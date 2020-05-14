@@ -24,6 +24,16 @@ class MainActivity : AppCompatActivity() {
         addData(R.drawable.ic_commerce,"Dairy Products")
         addData(R.drawable.ic_chips,"Packed Food")
         addData(R.drawable.ic_food,"Flour")
+        addData(R.drawable.ic_daily,"Daily Items")
+        addData(R.drawable.ic_fruit,"Fruits")
+        addData(R.drawable.ic_commerce,"Dairy Products")
+        addData(R.drawable.ic_chips,"Packed Food")
+        addData(R.drawable.ic_food,"Flour")
+        addData(R.drawable.ic_daily,"Daily Items")
+        addData(R.drawable.ic_fruit,"Fruits")
+        addData(R.drawable.ic_commerce,"Dairy Products")
+        addData(R.drawable.ic_chips,"Packed Food")
+        addData(R.drawable.ic_food,"Flour")
 
 
         val layoutManager= GridLayoutManager(this, 3)
